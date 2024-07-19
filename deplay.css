@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000; /* Black background for contrast */
+    color: white; /* White text for visibility */
+}
+
+.container {
+    text-align: center;
+}
+
+.main-text {
+    font-size: 10vw; /* Responsive font size relative to viewport width */
+    font-weight: bold;
+    margin: 0;
+}
+
+.sub-text {
+    font-size: 3vw; /* Responsive font size relative to viewport width */
+    margin-top: 20px;
+}
