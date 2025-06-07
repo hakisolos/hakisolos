@@ -17,22 +17,13 @@
 ---
 
 ## 🚀 About Me
+<br>
 
-```typescript
-const haki = {
-	realName: 'Maxwell Excel',
-	stageName: 'HAKI',
-	role: 'Software Developer & Aspiring Software Engineer',
-	location: '🌍 Building from anywhere',
-	passion: [
-		'Creating innovative solutions',
-		'Bot development',
-		'Ai integration',
-	],
-	currentFocus: 'Crafting the future, one line of code at a time',
-	motto: 'Code with purpose, build with passion',
-};
-```
+- A passionate Self-taught Back-end developer
+- Video Editor
+- AI Engineer enthusiast
+- Personal website [link](https://www.hakidev.my.id)
+<br><br>
 
 I'm a passionate **Software Developer** and **aspiring Software Engineer** who thrives on turning ideas into reality through code. I specialize in building **intelligent bots**, **stunning visual interfaces**, and **powerful developer tools** that make a difference.
 
