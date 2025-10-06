@@ -39,11 +39,11 @@ I'm a passionate **Software Developer** and **aspiring Software Engineer** who t
 
 ### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,mongodb&theme=dark" />
 
 ### ☁️ Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,heroku&theme=dark" />
 
 </div>
 
