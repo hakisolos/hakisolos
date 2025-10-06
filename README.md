@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm **HAKI**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Engineer;Bot+Creator+%26+UI+Wizard;Building+Tomorrow's+Tools+Today;Welcome+to+My+Digital+Universe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Engineer;AI-enthusiast+%26+Game+Dev;Building+Tomorrow's+Tools+Today;Welcome+to+My+Digital+Universe" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,12 +20,12 @@
 <br>
 
 - A passionate Self-taught Back-end developer
-- Video Editor
+- Game Developer hobbyist 
 - AI Engineer enthusiast
 - Personal website [link](https://www.hakidev.my.id)
 <br><br>
 
-I'm a passionate **Software Developer** and **aspiring Software Engineer** who thrives on turning ideas into reality through code. I specialize in building **intelligent bots**, **stunning visual interfaces**, and **powerful developer tools** that make a difference.
+I'm a passionate **Software Developer** and **aspiring Software Engineer** who thrives on turning ideas into reality through code. I specialize in building **intelligent systems** and **powerful developer tools** that make a difference.
 
 ---
 
@@ -35,7 +35,7 @@ I'm a passionate **Software Developer** and **aspiring Software Engineer** who t
 
 ### 🔥 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,ts,go,html,css,react,nodejs,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,nodejs&theme=dark" />
 
 ### 🔧 Tools & Platforms
 
@@ -78,18 +78,6 @@ I'm a passionate **Software Developer** and **aspiring Software Engineer** who t
 </td>
 <td width="50%">
 
-### 🎨 **Visual Interfaces**
-
-- Modern web applications
-- Interactive dashboards
-- Mobile-responsive designs
-- Component libraries
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🔧 **Developer Tools**
 
 - CLI utilities and scripts
@@ -102,7 +90,7 @@ I'm a passionate **Software Developer** and **aspiring Software Engineer** who t
 
 ### 🌐 **Full-Stack Solutions**
 
-- E-commerce platforms
+-chatbot Applications
 - Real-time applications
 - Database-driven systems
 - Cloud-native architectures
